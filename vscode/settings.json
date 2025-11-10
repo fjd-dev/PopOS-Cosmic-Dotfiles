@@ -6,7 +6,8 @@
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "workbench.editor.showTabs": "single",
-  "workbench.productIconTheme": "fluent-icons",
+  "workbench.productIconTheme": "cs-fluent-icons",
+  "workbench.iconTheme": "bearded-icons",
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.tree.indent": 20,
   "workbench.editor.restoreViewState": true,
@@ -102,7 +103,6 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "workbench.iconTheme": "bearded-icons",
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   }
