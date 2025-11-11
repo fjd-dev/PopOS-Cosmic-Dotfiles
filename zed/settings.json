@@ -6,7 +6,7 @@
   "theme": {
     "mode": "system",
     "light": "Github Dark",
-    "dark": "Github Dark"
+    "dark": "GitHub Dark Default"
   },
   "ui_font_size": 16,
   "scrollbar": {
@@ -18,7 +18,7 @@
   "tab_bar": {
     "show": false
   },
-  "buffer_font_family": "GeistMono Nerd Font",
+  "buffer_font_family": "Monaspace Neon",
   "ensure_final_newline_on_save": true,
   "current_line_highlight": "gutter",
   "autosave": "on_focus_change",
@@ -74,7 +74,7 @@
   "terminal": {
     "dock": "left",
     "copy_on_select": true,
-    "font_family": "GeistMono Nerd Font Mono",
+    "font_family": "Monaspace Neon",
     "font_size": 14,
     "line_height": "standard",
     "font_weight": 100,
