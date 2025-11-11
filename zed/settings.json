@@ -18,7 +18,7 @@
   "tab_bar": {
     "show": false
   },
-  "buffer_font_family": "Monaspace Neon",
+  "buffer_font_family": "JetBrainsMono Nerd Font Mono",
   "ensure_final_newline_on_save": true,
   "current_line_highlight": "gutter",
   "autosave": "on_focus_change",
@@ -74,7 +74,7 @@
   "terminal": {
     "dock": "left",
     "copy_on_select": true,
-    "font_family": "Monaspace Neon",
+    "font_family": "JetBrainsMono Nerd Font Mono",
     "font_size": 14,
     "line_height": "standard",
     "font_weight": 100,
