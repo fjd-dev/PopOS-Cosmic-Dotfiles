@@ -1,0 +1,44 @@
+// Zed settings
+{
+  "icon_theme": "Bearded Icon Theme",
+  "ui_font_size": 15,
+  "ui_font_family": "GeistMono Nerd Font",
+  "buffer_font_size": 14,
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "show_edit_predictions": false,
+  "theme": {
+    "mode": "system",
+    "light": "GitHub Dark Default",
+    "dark": "GitHub Dark Default"
+  },
+  "tab_bar": {
+    "show": false
+  },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "edit_predictions": {
+    "mode": "subtle"
+  },
+  "features": {
+    "edit_prediction_provider": "zed"
+  },
+  "terminal": {
+    "dock": "left",
+    "font_family": "GeistMono Nerd Font Mono",
+    "font_size": 13,
+    "cursor_shape": "underline"
+  },
+  "notification_panel": {
+    "dock": "left"
+  },
+  "agent": {
+    "dock": "left",
+    "model_parameters": []
+  },
+  "project_panel": {
+    "dock": "right"
+  }
+}
